@@ -59,4 +59,6 @@
     <!-- Value in SharedPreferences for green color option -->
     <string name="pref_color_green_value" translatable="false">green</string>
 
+    <string name="size_error_msg">Please enter value between 0.1 and 3</string>
+
 </resources>
